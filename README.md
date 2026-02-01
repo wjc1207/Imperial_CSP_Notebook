@@ -18,7 +18,7 @@ This repository contains study notebooks for the following courses:
 4. **Digital Signal Processing and Digital Filters**  
    📄 `Digital_Signal_Processing_and_Digital_Filters_Notebook.pdf`
 
-5. **Probability and Stochastic Process**  
+5. **Probability and Stochastic Processes**  
    📄 `Probability_and_Stochastic_Process_Notebook.pdf`
 
 6. **Wireless Communications and Optimization**  
